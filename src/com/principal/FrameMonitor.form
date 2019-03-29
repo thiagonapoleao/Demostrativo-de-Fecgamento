@@ -1,0 +1,2923 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel4" max="32767" attributes="0"/>
+          <Component id="jPanel3" max="32767" attributes="0"/>
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel4">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="bb" green="0" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jLabel25" alignment="1" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLabel25" min="-2" pref="68" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="2" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel25">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="40" style="2"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Demonstrativo dos Fechamentos Di&#xe1;rio - CPD"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="bb" green="0" red="0" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <EmptySpace min="0" pref="27" max="32767" attributes="0"/>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+    </Container>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="bb" green="bb" red="bb" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="Unidades767" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades768" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades791" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades765" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades725" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades726" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades763" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades771" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades743" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades701" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades751" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades755" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades757" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades727" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades735" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades736" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades734" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades724" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="Unidades784" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="DataTxt" min="-2" pref="70" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" groupAlignment="2" attributes="0">
+                          <Component id="Unidades731" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades732" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades733" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades764" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades722" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades720" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades721" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades761" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades770" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades741" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades700" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades750" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades754" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades723" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades756" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades783" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades762" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades766" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="Unidades790" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jLabel9" alignment="1" min="-2" pref="70" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="2" attributes="0">
+                      <Component id="jLabel10" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib731" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib732" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib733" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib764" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib722" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib720" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib721" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib761" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib770" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib741" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib700" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib750" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib754" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib756" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib723" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib783" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib762" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib766" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                      <Component id="PrevLib790" alignment="2" min="-2" pref="70" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="LibCPD762" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="LibCPD766" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="LibCPD790" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="LibCPD764" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD720" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD721" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD761" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD770" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD741" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD700" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD750" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD754" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD756" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD723" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD732" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD733" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD731" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD722" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="jLabel31" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="LibCPD783" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Imp762" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="Imp766" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="Imp790" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Imp764" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp720" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp721" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp761" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp770" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp741" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp700" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp750" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp754" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp756" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp723" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp732" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp733" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp731" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp722" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="jLabel32" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Imp783" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Danfe762" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="Danfe766" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="Danfe790" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Danfe764" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe720" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe721" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe761" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe770" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe741" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe700" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe750" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe754" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe756" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe723" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe732" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe733" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe731" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe722" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="jLabel33" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Danfe783" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="DanfeEPEC762" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="DanfeEPEC766" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="DanfeEPEC790" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="DanfeEPEC764" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC720" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC721" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC761" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC770" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC741" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC700" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC750" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC754" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC756" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC723" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC732" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC733" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC731" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC722" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="jLabel34" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC783" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="TerminoImp762" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="TerminoImp766" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="TerminoImp790" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="TerminoImp764" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp720" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp721" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp761" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp770" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp741" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp700" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp750" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp754" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp756" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp723" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp732" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp733" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp731" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp722" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="jLabel35" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="TerminoImp783" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="PrevSaida762" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="PrevSaida766" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="PrevSaida790" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="PrevSaida764" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida720" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida721" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida761" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida770" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida741" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida700" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida750" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida754" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida756" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida723" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida732" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida733" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida731" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida722" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="jLabel36" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="PrevSaida783" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Saida762" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="Saida766" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Component id="Saida790" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Saida764" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida720" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida721" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida761" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida770" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida741" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida700" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida750" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida754" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida756" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida723" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida732" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida733" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida731" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida722" alignment="1" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="jLabel37" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                          <Component id="Saida783" alignment="0" min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Operador762" alignment="0" min="-2" pref="180" max="-2" attributes="0"/>
+                      <Component id="Operador766" alignment="0" min="-2" pref="180" max="-2" attributes="0"/>
+                      <Component id="Operador790" alignment="0" min="-2" pref="180" max="-2" attributes="0"/>
+                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="Operador764" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador720" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador721" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador761" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador770" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador741" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador700" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador750" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador754" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador756" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador723" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador732" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador733" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador731" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador722" alignment="1" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="jLabel38" alignment="0" min="-2" pref="180" max="-2" attributes="0"/>
+                          <Component id="Operador783" alignment="0" min="-2" pref="180" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="92" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="1" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="DataTxt" min="-2" pref="25" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="Unidades734" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades735" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades736" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades765" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades724" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades725" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades726" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades763" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades771" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades743" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades701" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades751" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades755" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades757" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades727" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="Unidades784" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="Unidades767" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="Unidades768" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="Unidades791" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel38" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="Operador731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Operador723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="Operador783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="Operador762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="Operador766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="Operador790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel37" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="Saida731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Saida723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="Saida783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="Saida762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="Saida766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="Saida790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel36" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevSaida723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="PrevSaida783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="PrevSaida762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="PrevSaida766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="PrevSaida790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel35" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="TerminoImp723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="TerminoImp783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="TerminoImp762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="TerminoImp766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="TerminoImp790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel34" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="DanfeEPEC723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="DanfeEPEC783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="DanfeEPEC762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="DanfeEPEC766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="DanfeEPEC790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel33" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="Danfe731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Danfe723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="Danfe783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="Danfe762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="Danfe766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="Danfe790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel32" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="Imp731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Imp723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="Imp783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="Imp762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="Imp766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="Imp790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Component id="jLabel31" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="LibCPD731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="LibCPD723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="LibCPD783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="LibCPD762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="LibCPD766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="LibCPD790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" alignment="1" attributes="0">
+                                                  <Group type="103" groupAlignment="3" attributes="0">
+                                                      <Component id="jLabel10" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                                                      <Component id="jLabel9" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="PrevLib731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="PrevLib723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="PrevLib783" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="PrevLib762" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="PrevLib766" alignment="1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="PrevLib790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="102" attributes="0">
+                                          <Group type="103" groupAlignment="1" attributes="0">
+                                              <Group type="102" attributes="0">
+                                                  <Component id="Unidades731" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades732" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades733" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades764" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades722" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades720" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades721" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades761" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades770" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades741" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades700" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades750" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades754" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades756" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="Unidades723" min="-2" pref="20" max="-2" attributes="0"/>
+                                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Component id="Unidades783" min="-2" pref="20" max="-2" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="Unidades762" min="-2" pref="20" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="Unidades766" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="Unidades790" min="-2" pref="20" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="20" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Unidades"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel10">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Prev. Lib."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevLib790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel31">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Lib. CPD"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LibCPD790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel32">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Impressora"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Imp790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel33">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Danfe Nor."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Danfe790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel34">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Danfe EPEC"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="DanfeEPEC790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel35">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Termino Imp"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TerminoImp790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel36">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Prev. Saida"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="PrevSaida790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel37">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Sa&#xed;da CD"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Saida790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel38">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="Operador"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador731">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador732">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador733">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador764">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador722">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador720">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador721">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador761">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador770">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador741">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador700">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador750">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador754">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador756">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador723">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador783">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador762">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador766">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Operador790">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="2"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades734">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="731"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades735">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="732"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades736">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="733"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades765">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="764"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades724">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="722"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades725">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="720"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades726">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="721"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades763">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="761"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades771">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="770"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades743">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="741"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades701">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="700"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades751">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="750"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades755">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="754"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades757">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="756"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades727">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="723"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades784">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="783"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades767">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="762"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades768">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="766"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Unidades791">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="14" style="3"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="790"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JFormattedTextField" name="DataTxt">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="bb" green="bb" red="bb" type="rgb"/>
+            </Property>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.EmptyBorderInfo">
+                <EmptyBorder/>
+              </Border>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Lucida Fax" size="10" style="0"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="DataTxtActionPerformed"/>
+            <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="DataTxtKeyReleased"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
